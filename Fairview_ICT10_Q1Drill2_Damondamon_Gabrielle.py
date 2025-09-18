@@ -1,6 +1,3 @@
-import pyscript
-<py-config>
-    [[fetch]]
+import main
 
-    files = [["main.py"]]
-</py-config>
+main.run()
