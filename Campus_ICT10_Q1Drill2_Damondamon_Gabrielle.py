@@ -1,6 +1,8 @@
 import pyscript 
 from display
 
-[[fetch]] # type: ignore
+<py-config>
+		[[fetch]]
 
-files = [["main.py"]]
+		files = [["main.py"]]
+</py-config>
